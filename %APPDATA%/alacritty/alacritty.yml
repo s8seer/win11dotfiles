@@ -1,0 +1,71 @@
+# https://github.com/alacritty/alacritty-theme
+# https://github.com/pwaleczek/Argonaut-theme
+shell:
+    program: pwsh
+    #args:
+      #- -c pwsh
+window:
+  padding:
+    x: 10
+    y: 10
+  opacity: 0.97
+font:
+  size: 13
+  normal:
+    family: ProFontWindows Nerd Font Mono
+    style: Regular  
+  bold:
+    family: ProFontWindows Nerd Font Mono
+    style: Bold
+  italic:
+    family: ProFontWindows Nerd Font Mono
+    style: Italic
+  bold_italic:
+    family: ProFontWindows Nerd Font Mono
+    style: Bold Italic
+colors:
+  primary:
+    background: "0x232136"
+    foreground: "0xe0def4"
+  cursor:
+    text: "0xe0def4"
+    cursor: "0x56526e"
+  vi_mode_cursor:
+    text: "0xe0def4"
+    cursor: "0x56526e"
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: "0xe0def4"
+    background: "0x44415a"
+  normal:
+    black: "0x393552"
+    red: "0xeb6f92"
+    green: "0x3e8fb0"
+    yellow: "0xf6c177"
+    blue: "0x9ccfd8"
+    magenta: "0xc4a7e7"
+    cyan: "0xea9a97"
+    white: "0xe0def4"
+  bright:
+    black: "0x6e6a86"
+    red: "0xeb6f92"
+    green: "0x3e8fb0"
+    yellow: "0xf6c177"
+    blue: "0x9ccfd8"
+    magenta: "0xc4a7e7"
+    cyan: "0xea9a97"
+    white: "0xe0def4"
+  hints:
+    start:
+      foreground: "#908caa"
+      background: "#2a273f"
+    end:
+      foreground: "#6e6a86"
+      background: "#2a273f"
+title: Alacritty
+dynamic_title: false
+cursor:
+  style: Underline
+  unfocused_hollow: false
