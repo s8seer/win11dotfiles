@@ -9,6 +9,11 @@ Nixified Windows resources repository.
 -Fonts:  
 ProFontWindows Nerd Font https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/ProFont.zip
 
+-Firefox & Add-ons
+https://www.mozilla.org/en-US/firefox/new/  
+https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/  
+https://addons.mozilla.org/en-US/firefox/addon/chevy-extended-cab/
+  
 -Alacritty  
 Terminal Emulator.  
 https://github.com/alacritty/alacritty  
