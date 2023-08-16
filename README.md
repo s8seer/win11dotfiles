@@ -14,9 +14,9 @@ https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/ProFont.zip
 https://www.mozilla.org/en-US/firefox/new/  
 https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/  
 https://addons.mozilla.org/en-US/firefox/addon/chevy-extended-cab/  
-https://addons.mozilla.org/en-US/firefox/addon/animated-peaceby1041uuu/  
 https://addons.mozilla.org/en-US/firefox/addon/vaporwave-animated/  
 https://addons.mozilla.org/en-US/firefox/addon/oneshot-refuge-theme/  
+https://addons.mozilla.org/en-US/firefox/addon/animated-peaceby1041uuu/  
 https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/  
   
 -Alacritty  
