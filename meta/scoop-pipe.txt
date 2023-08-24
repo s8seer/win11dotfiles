@@ -1,2 +1,3 @@
 bashtop
 chafa
+vifm
