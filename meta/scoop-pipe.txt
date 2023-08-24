@@ -1,3 +1,5 @@
 bashtop
 chafa
 vifm
+nano
+micro
