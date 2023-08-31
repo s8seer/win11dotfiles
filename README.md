@@ -6,26 +6,18 @@ Nixified Windows resources repository.
 
 ### Manual Installation:
 #### Prerequisites:
--Fonts:  
-ProFontWindows Nerd Font  
-https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/ProFont.zip
-
+  
 -Firefox & Add-ons  
 https://www.mozilla.org/en-US/firefox/new/  
-https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/  
-https://addons.mozilla.org/en-US/firefox/addon/chevy-extended-cab/  
-https://addons.mozilla.org/en-US/firefox/addon/vaporwave-animated/  
-https://addons.mozilla.org/en-US/firefox/addon/oneshot-refuge-theme/  
-https://addons.mozilla.org/en-US/firefox/addon/animated-peaceby1041uuu/  
+https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/    
 https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/  
   
--Alacritty  
-Terminal Emulator.  
-https://github.com/alacritty/alacritty  
+-Discord & Better Discord
+https://discord.com/  
+https://betterdiscord.app/  
   
--OhMyPosh  
-Improved Windows PowerShell.  
-https://ohmyposh.dev/  
+-Terminal Stuff
+https://github.com/alacritty/alacritty  
 https://github.com/jandedobbeleer/oh-my-posh  
   
 -AltDrag  
