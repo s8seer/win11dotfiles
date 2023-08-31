@@ -12,9 +12,14 @@ https://www.mozilla.org/en-US/firefox/new/
 https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/    
 https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/  
   
--Discord & Better Discord
+-Discord & Better Discord  
 https://discord.com/  
 https://betterdiscord.app/  
+v https://betterdiscord.app/plugin/BetterFolders  
+v https://betterdiscord.app/plugin/ImageUtilities  
+v https://betterdiscord.app/plugin/PlatformIndicators  
+v https://betterdiscord.app/theme/EmojiReplace (JoyPixels)  
+v https://betterdiscord.app/theme/Tokyo%20Night  
   
 -Terminal Stuff
 https://github.com/alacritty/alacritty  
