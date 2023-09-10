@@ -36,9 +36,12 @@ https://www.startallback.com/
 Adjust the brightness, sound, contrast of your monitor.  
 https://www.microsoft.com/store/productid/9PLJWWSV01LK?ocid=pdpshare  
 
+-WinaeroTweaker  
+https://winaero.com/winaero-tweaker/  
+
 ###  Cool Software That I Don't Use:  
 ExplorerPatcher: https://github.com/valinet/ExplorerPatcher  
 pyWinContext: https://github.com/VodBox/pyWinContext  
-Files: https://github.com/files-community/files/ 
+Files: https://github.com/files-community/files/  
 Dexpot: https://www.dexpot.de/?lang=en  
   
