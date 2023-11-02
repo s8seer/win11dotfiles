@@ -41,5 +41,5 @@ no small taskbar, ur stuck with a bar that covers %10 of ur screen
 
 ## why not just revert to windows 10?  
 if i were to reset my hard disk, i'd switch to [linux](https://github.com/s8seer/dotfiles)  
-nvidia has not yet open sourced gpus aside form [CUDA](https://developer.nvidia.com/cuda-gpus) and RTX
+Nvidia has not yet [open sourced](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/) GPUs aside from [CUDA](https://developer.nvidia.com/cuda-gpus) and RTX GPUs
   
