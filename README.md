@@ -32,14 +32,16 @@ Nixified Windows resources repository.
 looks great  
 davinci resolve doesn't have [issues](https://youtu.be/F1dOZ_CJPfc?si=Qq6dRz0yC-h9-eQd)  
 
-## why not windows 11?
+## Why not windows 11?
 https://www.howtogeek.com/884624/youre-not-alone-windows-11-is-randomly-opening-file-explorer/  
-slow bootup time  
-applications take forever to load  
-bloated and very tedious to unbloat  
-no small taskbar, ur stuck with a bar that covers %10 of ur screen  
+Slow bootup time  
+Applications take forever to load  
+Bloated and very tedious to unbloat  
+No small taskbar, ur stuck with a bar that covers %10 of ur screen  
+Windows update on harddisks:  
+![](./meta/windows_update.PNG)  
 
-## why not just revert to windows 10?  
-if i were to reset my hard disk, i'd switch to [linux](https://github.com/s8seer/dotfiles)  
+## Why not just revert to windows 10?  
+If I were to reset my hard disk, I'd switch to [linux](https://github.com/s8seer/dotfiles)  
 Nvidia has not yet [open sourced](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/) GPUs aside from [CUDA](https://developer.nvidia.com/cuda-gpus) and RTX GPUs
   
