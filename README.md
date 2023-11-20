@@ -35,11 +35,11 @@ Discord [screenshare audio](https://support.discord.com/hc/en-us/community/posts
 Davinci resolve doesn't have [issues](https://youtu.be/F1dOZ_CJPfc?si=Qq6dRz0yC-h9-eQd).  
 
 ## Why not windows 11?
-https://www.howtogeek.com/884624/youre-not-alone-windows-11-is-randomly-opening-file-explorer/  
-Slow bootup time  
-Applications take forever to load  
-Bloated and very tedious to unbloat  
-No small taskbar, ur stuck with a bar that covers %10 of ur screen  
+[Explorer](https://www.howtogeek.com/884624/youre-not-alone-windows-11-is-randomly-opening-file-explorer/)  
+Slow bootup time.  
+Applications take forever to load.  
+Bloated and very tedious to unbloat.  
+No small taskbar without 3rd party applications.  
 Windows update on harddisks:  
 ![](./meta/windows_update.PNG)  
 
