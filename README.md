@@ -29,8 +29,10 @@ Nixified Windows resources repository.
 -[Dexpot](https://www.dexpot.de/?lang=en)  
  
 ## Why windows 11? 
-looks great  
-davinci resolve doesn't have [issues](https://youtu.be/F1dOZ_CJPfc?si=Qq6dRz0yC-h9-eQd)  
+Looks great.  
+Discord [microphone tray](https://support.discord.com/hc/en-us/community/posts/12587717927703--Linux-Icon-Tray) works.  
+Discord [screenshare audio](https://support.discord.com/hc/en-us/community/posts/360050971374-Linux-Screen-Share-Sound-Support) works.  
+Davinci resolve doesn't have [issues](https://youtu.be/F1dOZ_CJPfc?si=Qq6dRz0yC-h9-eQd).  
 
 ## Why not windows 11?
 https://www.howtogeek.com/884624/youre-not-alone-windows-11-is-randomly-opening-file-explorer/  
