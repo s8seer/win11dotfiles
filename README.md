@@ -6,6 +6,7 @@ Nixified Windows resources repository.
 ### Manual Installation:
 #### Prerequisites:
 -[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) 
 [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
 [Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/)  
 -[Discord](https://discord.com/)  
