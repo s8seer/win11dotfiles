@@ -1,6 +1,6 @@
 ## win11dotfiles is a
 Nixified Windows resources repository.
-### Screenshots
+<div align="center">Screenshots</div>
 ![screenshot](./meta/screenshot.png)
 
 ### Manual Installation:
