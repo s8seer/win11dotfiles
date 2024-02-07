@@ -15,7 +15,7 @@ Nixified Windows resources repository.
 [Image Utilities](https://betterdiscord.app/plugin/ImageUtilities)
 [Platform Indicators](https://betterdiscord.app/plugin/PlatformIndicators)
 [Emoji Replace (Joypixels)](https://betterdiscord.app/theme/EmojiReplace)
-[Tokyo Night](https://betterdiscord.app/theme/Tokyo%20Night)
+[Theme](https://betterdiscord.app/theme/Spectra)
 
 -[Alacritty](https://github.com/alacritty/alacritty)  
 -[Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)  
