@@ -15,7 +15,11 @@ Nixified Windows resources repository.
 [Image Utilities](https://betterdiscord.app/plugin/ImageUtilities)
 [Platform Indicators](https://betterdiscord.app/plugin/PlatformIndicators)
 [Emoji Replace (Joypixels)](https://betterdiscord.app/theme/EmojiReplace)
-[Theme](https://betterdiscord.app/theme/Spectra)
+[Theme](https://betterdiscord.app/theme/Spectra) 
+
+-[Taskbarx](https://github.com/ChrisAnd1998/TaskbarX)  
+-[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) 
+
 
 -[Alacritty](https://github.com/alacritty/alacritty)  
 -[Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)  
@@ -25,7 +29,7 @@ Nixified Windows resources repository.
 -[WinaeroTweaker](https://winaero.com/winaero-tweaker/)  
  
 ###  Cool Software I Don't Use:  
--[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)  
+
 -[pyWinContext](https://github.com/VodBox/pyWinContext)  
 -[Files](https://github.com/files-community/files/)  
 -[Dexpot](https://www.dexpot.de/?lang=en)  
@@ -44,8 +48,4 @@ Bloated and very tedious to unbloat.
 No small taskbar without 3rd party applications.  
 Windows update on harddisks:  
 ![](./meta/windows_update.PNG)  
-
-## Why not just revert to windows 10?  
-If I were to reset my hard disk, I'd switch to [linux](https://github.com/s8seer/dotfiles)  
-Nvidia has not yet [open sourced](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/) GPUs aside from [CUDA](https://developer.nvidia.com/cuda-gpus) and RTX GPUs
   
