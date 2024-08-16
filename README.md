@@ -1,43 +1,43 @@
 
 ### Apps
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/)
+- [Alacritty](https://github.com/alacritty/alacritty)
 <small>
-[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) 
-[Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
-[Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/)  
+[Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)
 </small>
-- [Discord](https://discord.com/)  
+- [AltDrag](https://github.com/stefansundin/altdrag/)
 - [Better Discord](https://betterdiscord.app/)
 <small>
 [DTM-08 Theme](https://betterdiscord.app/theme/dtm-08)
-</small>  
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)  
-- [AltDrag](https://github.com/stefansundin/altdrag/)  
-- [Alacritty](https://github.com/alacritty/alacritty)
-<small>
-[Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)  
 </small>
-- [ProtonVPN](https://protonvpn.com/)  
-- [XAMPP](https://www.apachefriends.org/download)  
-- [Microsft Powertoys](https://github.com/microsoft/PowerToys/releases/)  
-- [OBS](https://obsproject.com/download)
-- Droidcam  
-- [VLC media player](https://www.videolan.org/vlc/)
+- [Discord](https://discord.com/)
+- Droidcam
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+<small>
+[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+[Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
+[Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/)
+</small>
 - [Google Chrome](https://www.google.com/chrome/)
 <small>
 [uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 </small>
+- [Kate](https://apps.microsoft.com/detail/9nwmw7bb59hw)
+- [Krita](https://krita.org/en/download/)
+- [Microsoft Powertoys](https://github.com/microsoft/PowerToys/releases/)
+- [OBS](https://obsproject.com/download)
+- [Parsec](https://parsec.app/)
+- [ProtonVPN](https://protonvpn.com/)
+- [Sizer](https://www.brianapps.net/sizer4/)
 - [Spotify](https://www.spotify.com/us/download/windows/)
 <small>
 [Spicetify](https://github.com/spicetify/cli)
 </small>
-- [Kate](https://apps.microsoft.com/detail/9nwmw7bb59hw)
-- [Parsec](https://parsec.app/)
+- [VLC media player](https://www.videolan.org/vlc/)
+- [XAMPP](https://www.apachefriends.org/download)
 - [XODO PDF Reader](https://xodo.com/)
-- [Krita](https://krita.org/en/download/)
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/)
 - [7-Zip](https://www.7-zip.org/download)
-- [Sizer](https://www.brianapps.net/sizer4/)
 
 ### Games
 - [Battle.net](https://download.battle.net/en-us/desktop)  
