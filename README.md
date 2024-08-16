@@ -4,12 +4,18 @@ Nixified Windows resources repository.
 
 ![screenshot](./meta/screenshot.png)
 
-### Manual Installation:
-#### Prerequisites:
+### Apps
 -[Firefox](https://www.mozilla.org/en-US/firefox/new/)
+<sub>
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) 
 [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
 [Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/)  
+</sub>
+
+
+### Manual Installation:
+#### Prerequisites:
+
 -[Discord](https://discord.com/)  
 -[Better Discord](https://betterdiscord.app/)
 [Image Utilities](https://betterdiscord.app/plugin/ImageUtilities)
@@ -48,4 +54,16 @@ Bloated and very tedious to unbloat.
 No small taskbar without 3rd party applications.  
 Windows update on harddisks:  
 ![](./meta/windows_update.PNG)  
+
+<style>
+ a{
+  height: 200px;
+ }
+ 
+ sub *{
+  margin-bottom: 10px;
+  background: red;
+ }
+ 
+</style>
   
