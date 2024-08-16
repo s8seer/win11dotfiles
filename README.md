@@ -4,7 +4,7 @@
 - [Alacritty](https://github.com/alacritty/alacritty)
 <small>
 [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)
-</small>
+</small>  
 - [AltDrag](https://github.com/stefansundin/altdrag/)
 - [Better Discord](https://betterdiscord.app/)
 <small>
