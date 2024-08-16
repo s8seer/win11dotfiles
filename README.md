@@ -1,69 +1,63 @@
-## win11dotfiles is a
-Nixified Windows resources repository.
-<div align="center">Screenshots</div>
-
-![screenshot](./meta/screenshot.png)
 
 ### Apps
--[Firefox](https://www.mozilla.org/en-US/firefox/new/)
-<sub>
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+<small>
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) 
 [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
 [Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/)  
-</sub>
+</small>
+- [Discord](https://discord.com/)  
+- [Better Discord](https://betterdiscord.app/)
+<small>
+[DTM-08 Theme](https://betterdiscord.app/theme/dtm-08)
+</small>  
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)  
+- [AltDrag](https://github.com/stefansundin/altdrag/)  
+- [Alacritty](https://github.com/alacritty/alacritty)
+<small>
+[Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)  
+</small>
+- [ProtonVPN](https://protonvpn.com/)  
+- [XAMPP](https://www.apachefriends.org/download)  
+- [Microsft Powertoys](https://github.com/microsoft/PowerToys/releases/)  
+- [OBS](https://obsproject.com/download)
+- Droidcam  
+- [VLC media player](https://www.videolan.org/vlc/)
+- [Google Chrome](https://www.google.com/chrome/)
+<small>
+[uBlock Origin](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+</small>
+- [Spotify](https://www.spotify.com/us/download/windows/)
+<small>
+[Spicetify](https://github.com/spicetify/cli)
+</small>
+- [Kate](https://apps.microsoft.com/detail/9nwmw7bb59hw)
+- [Parsec](https://parsec.app/)
+- [XODO PDF Reader](https://xodo.com/)
+- [Krita](https://krita.org/en/download/)
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/)
+- [7-Zip](https://www.7-zip.org/download)
+- [Sizer](https://www.brianapps.net/sizer4/)
 
+### Games
+- [Battle.net](https://download.battle.net/en-us/desktop)  
+- [Steam](https://store.steampowered.com/about/)  
 
-### Manual Installation:
-#### Prerequisites:
+### Drivers and Stuff
+- [Razer Synapse](https://www.razer.com/synapse-3)  
 
--[Discord](https://discord.com/)  
--[Better Discord](https://betterdiscord.app/)
-[Image Utilities](https://betterdiscord.app/plugin/ImageUtilities)
-[Platform Indicators](https://betterdiscord.app/plugin/PlatformIndicators)
-[Emoji Replace (Joypixels)](https://betterdiscord.app/theme/EmojiReplace)
-[Theme](https://betterdiscord.app/theme/Spectra) 
-
--[Taskbarx](https://github.com/ChrisAnd1998/TaskbarX)  
--[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) 
-
-
--[Alacritty](https://github.com/alacritty/alacritty)  
--[Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh)  
-
--[AltDrag](https://github.com/stefansundin/altdrag/)  
--[Twinkle Tray](https://www.microsoft.com/store/productid/9PLJWWSV01LK)  
--[WinaeroTweaker](https://winaero.com/winaero-tweaker/)  
- 
-###  Cool Software I Don't Use:  
-
--[pyWinContext](https://github.com/VodBox/pyWinContext)  
--[Files](https://github.com/files-community/files/)  
--[Dexpot](https://www.dexpot.de/?lang=en)  
- 
-## Why windows 11? 
-Looks great.  
-Discord [microphone tray](https://support.discord.com/hc/en-us/community/posts/12587717927703--Linux-Icon-Tray) works.  
-Discord [screenshare audio](https://support.discord.com/hc/en-us/community/posts/360050971374-Linux-Screen-Share-Sound-Support) works.  
-Davinci resolve doesn't have [issues](https://youtu.be/F1dOZ_CJPfc?si=Qq6dRz0yC-h9-eQd).  
-
-## Why not windows 11?
-[Explorer](https://www.howtogeek.com/884624/youre-not-alone-windows-11-is-randomly-opening-file-explorer/)  
-Slow bootup time.  
-Applications take forever to load.  
-Bloated and very tedious to unbloat.  
-No small taskbar without 3rd party applications.  
 Windows update on harddisks:  
 ![](./meta/windows_update.PNG)  
 
 <style>
- a{
-  height: 200px;
- }
- 
- sub *{
-  margin-bottom: 10px;
-  background: red;
- }
- 
+    small *{
+        font-size: 10px;
+        height: 10px;
+    } 
+    li{
+        margin: 0px;
+        padding: 0px;
+        margin-left: -25px;
+    }
 </style>
   
