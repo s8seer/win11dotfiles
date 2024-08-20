@@ -12,6 +12,7 @@
 -[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)  
 -[Firefox](https://www.mozilla.org/en-US/firefox/new/)
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+[Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 [Purple Night Theme](https://addons.mozilla.org/en-US/firefox/addon/purple-night-theme/)
 [Nighttime Stars Animated Theme](https://addons.mozilla.org/en-US/firefox/addon/nighttime-stars-animated-theme/)  
 -[Google Chrome](https://www.google.com/chrome/)
