@@ -32,7 +32,7 @@
 -[VLC media player](https://www.videolan.org/vlc/)  
 -[XAMPP](https://www.apachefriends.org/download)  
 -[XODO PDF Reader](https://xodo.com/)  
--[7-Zip](https://www.7-zip.org/download)  
+-[7-Zip](https://www.7-zip.org/download.html)  
 
 ### Games
 -[Battle.net](https://download.battle.net/en-us/desktop)  
