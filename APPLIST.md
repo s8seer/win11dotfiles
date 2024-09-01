@@ -22,7 +22,7 @@
 -[Microsoft Powertoys](https://github.com/microsoft/PowerToys/releases/)  
 -[OBS](https://obsproject.com/download)  
 -[Parsec](https://parsec.app/)  
--[ProtonVPN](https://protonvpn.com/)  
+-[ProtonVPN](https://protonvpn.com/download-windows)  
 -[Rufus](https://rufus.ie/en/)  
 -[Sizer](https://www.brianapps.net/sizer4/)  
 -[Spotify](https://www.spotify.com/us/download/windows/)
