@@ -27,6 +27,7 @@
 -[Sizer](https://www.brianapps.net/sizer4/)  
 -[Spotify](https://www.spotify.com/us/download/windows/)
 [Spicetify](https://github.com/spicetify/cli)  
+-[Tor Browser](https://www.torproject.org/download/)  
 -[Visual Studio Code](https://code.visualstudio.com/)  
 -[VLC media player](https://www.videolan.org/vlc/)  
 -[XAMPP](https://www.apachefriends.org/download)  
