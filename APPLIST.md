@@ -10,7 +10,7 @@
 -[Discord](https://discord.com/)  
 -Droidcam  
 -[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)  
--[Free Download Manager](https://www.freedownloadmanager.org/download.htm)
+-[Free Download Manager](https://www.freedownloadmanager.org/download.htm)  
 -[Firefox](https://www.mozilla.org/en-US/firefox/new/)
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
